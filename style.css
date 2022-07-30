@@ -151,7 +151,7 @@ ul {
 
 ul li {
     padding-top: 10px;
-    justify-content: right;
+    text-align: left;
 }
 
 button{
