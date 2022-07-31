@@ -186,7 +186,15 @@ button{
 }
 
 /* Media Query For Phone */
-@media only screen and (min-width: 480px){
+@media only screen and (max-width: 480px){
+    .content2{
+        height: 1060px;
+    }
+    .alert1{
+        margin-left: 7%;
+    }
+}
+@media only screen and (min-width: 481px){
     .content2{
         height: 1060px;
     }
